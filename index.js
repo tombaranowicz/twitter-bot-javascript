@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
-const username = "xxxxx";
-const password = "xxxxx";
+const username = "xxxxxx";
+const password = "xxxxxx";
 
 let browser = null;
 let page = null;
